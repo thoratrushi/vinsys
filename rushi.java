@@ -1,5 +1,5 @@
 hi there...
-hi this is rushi.
+hi this is amit.
  welcome to git
  class Hello{
         public static void main(String[] args){
